@@ -126,12 +126,12 @@ streamlit run chatbot.py
 
 # Preview
 
-<img src="img1.png" width="80%" />
-<img src="img2.png" width="80%" />
-<img src="img3.png" width="80%" />
-<img src="img4.png" width="80%" />
-<img src="img5.png" width="80%" />
-<img src="img6.png" width="80%" />
+<img src="img1.jpeg" width="80%" />
+<img src="img2.jpeg" width="80%" />
+<img src="img3.jpeg" width="80%" />
+<img src="img4.jpeg" width="80%" />
+<img src="img5.jpeg" width="80%" />
+<img src="img6.jpeg" width="80%" />
 
 ---
 
