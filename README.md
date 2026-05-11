@@ -131,7 +131,6 @@ streamlit run chatbot.py
 <img src="img3.jpeg" width="80%" />
 <img src="img4.jpeg" width="80%" />
 <img src="img5.jpeg" width="80%" />
-<img src="img6.jpeg" width="80%" />
 
 ---
 
