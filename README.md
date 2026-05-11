@@ -126,33 +126,12 @@ streamlit run chatbot.py
 
 # Preview
 
-## Home Interface
-
-<img width="100%" alt="Home Interface" src="YOUR_SCREENSHOT_LINK_HERE"/>
-
----
-
-## Voice Interaction
-
-<img width="100%" alt="Voice Interaction" src="YOUR_SCREENSHOT_LINK_HERE"/>
-
----
-
-## Chat Response Interface
-
-<img width="100%" alt="Chat Response Interface" src="YOUR_SCREENSHOT_LINK_HERE"/>
-
----
-
-## Voice Input Detection
-
-<img width="100%" alt="Voice Input Detection" src="YOUR_SCREENSHOT_LINK_HERE"/>
-
----
-
-## Streamlit UI
-
-<img width="100%" alt="Streamlit UI" src="YOUR_SCREENSHOT_LINK_HERE"/>
+<img src="img1.png" width="80%" />
+<img src="img2.png" width="80%" />
+<img src="img3.png" width="80%" />
+<img src="img4.png" width="80%" />
+<img src="img5.png" width="80%" />
+<img src="img6.png" width="80%" />
 
 ---
 
